@@ -6,7 +6,7 @@
     "description": "Schema for generating JSX files at scene, component, and child-component levels with Chakra UI, dynamic imports, explicit global token referencing, theme integration, and responsive design."
   },
   "servers": [
-  { "url": "https://schema.lxmiswap.org"}
+  { "url": "https://mathuresh108.github.io/lxmiswap-schema"}
 ],
 
   "paths": {
